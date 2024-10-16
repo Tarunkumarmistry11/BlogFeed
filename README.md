@@ -78,8 +78,8 @@ npm start
 The backend server will run on http://localhost:5000, and the frontend React app will run on http://localhost:3000.
 
 Folder Structure
-bash
-Copy code
+
+
 mern-blog-app/
 │
 ├── backend/
@@ -99,7 +99,13 @@ mern-blog-app/
 │   ├── .env                # Environment variables for frontend
 │
 ├── README.md               # Project documentation
+
+
+
+
+
 API Endpoints
+
 Authentication
 POST /api/users/register: Register a new user.
 POST /api/users/login: User login with email and password.
